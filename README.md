@@ -1,3 +1,5 @@
+This project has been forked in order to provide support for the [AndroidX package structure](https://developer.android.com/jetpack/androidx/). You can find the original project with support for the Support Library package structure [here](https://github.com/react-native-community/react-native-camera)
+
 # React Native Camera [![Backers on Open Collective](https://opencollective.com/react-native-camera/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-camera/sponsors/badge.svg)](#sponsors) [![npm version](https://badge.fury.io/js/react-native-camera.svg)](http://badge.fury.io/js/react-native-camera) [![npm downloads](https://img.shields.io/npm/dm/react-native-camera.svg)](https://www.npmjs.com/package/react-native-camera)
 
 ## Sponsors
